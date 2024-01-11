@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Chum Chantha
-Someday i will become a Full-Stack devoloper
+Someday i will become a Full-Stack developer
 <!--
 **chumchantha/ChumChantha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
