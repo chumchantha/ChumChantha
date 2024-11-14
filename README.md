@@ -1,4 +1,4 @@
-<h3 align="center">chumchantha</h3>
+<h3 align="left">chumchantha</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
