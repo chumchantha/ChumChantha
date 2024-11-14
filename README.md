@@ -1,9 +1,5 @@
-### E Rank: Chum Chantha - chumchantha
-Someday i will become a Full-Stack developer.
-
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chumchantha&label=Profile%20views&color=0e75b6&style=flat" alt="chumchantha" /> </p>
+<h1  align="center">E Rank: Chum Chantha - chumchantha </h1> 
+<h2  align="center">Someday i will become a Full-Stack developer.</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
